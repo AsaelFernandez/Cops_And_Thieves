@@ -1,4 +1,4 @@
-# Cops_And_Thieves
+# Cops And Thieves
 Cops and thieves is a game where we have 3 types of characters with 4 movement behaviors each.
 - All the decisions made, are fully AI and part of them developed with diffused intelligence model
 
